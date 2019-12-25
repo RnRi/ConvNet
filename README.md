@@ -8,5 +8,5 @@
   Alexnet, Resnet, Wide_Resnet
 
 # Scripts:
- To train a model, run: "python main.py", and to run Inference, run: "evaluate.py"
+ To train a model: "python main.py", and to run Inference: "evaluate.py"
 
